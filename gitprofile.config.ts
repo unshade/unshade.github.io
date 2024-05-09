@@ -32,22 +32,22 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+        // {
+        //   title: 'Project Name',
+        //   description:
+        //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        //   imageUrl:
+        //     'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+        //   link: 'https://example.com',
+        // },
+        // {
+        //   title: 'Project Name',
+        //   description:
+        //     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        //   imageUrl:
+        //     'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+        //   link: 'https://example.com',
+        // },
       ],
     },
   },
@@ -84,7 +84,12 @@ const CONFIG = {
   },
   skills: [
     'PHP',
+    'Java',
+    'Python',
+    'Go',
     'Laravel',
+    'Flask',
+    'Gin',
     'JavaScript',
     'React.js',
     'Node.js',
@@ -97,12 +102,12 @@ const CONFIG = {
     'KVM',
     'Pest',
     'Tailwind',
-    'UnRaid (Self-Hosted)',
+    'UnRaid (Self-Hosting)',
   ],
   experiences: [
     {
       company: 'Copernic',
-      position: 'Full Stack Developer',
+      position: 'Full Stack Developer (Intern)',
       from: '2022',
       to: '2022',
       companyLink: 'https://www.agence-copernic.fr/',
@@ -110,10 +115,22 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'TOEIC',
+      body: 'B2 : 900/990',
+      year: '2023',
+      link: '',
+    },
+    {
       name: 'Project Management',
       body: 'General project management, issued by Centrale Lille',
-      year: '2023',
+      year: '2022',
       link: 'https://moocgdp.gestiondeprojet.pm/certificates/3883569e8beb41b8a98fbf1334966601',
+    },
+    {
+      name: 'Digital Marketing Basics',
+      body: 'Issued by Google',
+      year: '2022',
+      link: '',
     },
   ],
   educations: [
@@ -165,7 +182,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
