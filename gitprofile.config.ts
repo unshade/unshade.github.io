@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
+          title: 'Unshade',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This one is not a code project, but a music project. I am a music producer and I have released a few tracks on Spotify (majority of them are not public).',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://i1.sndcdn.com/avatars-XHJyCyzweU8N63J8-cMFhAw-t500x500.jpg',
+          link: 'https://open.spotify.com/intl-fr/artist/4WBH8jDn9K50G1cQMzIqkO',
         },
         {
-          title: 'Project Name',
+          title: 'UnRaid',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'My personal server is running on UnRaid. I have a few docker containers running on it, such as NextCloud, Bitwarden, and more. I also use it to run VMs for development purposes (and for my personnal cloud gaming).',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.filegarden.net%2Fwp-content%2Fuploads%2F2019%2F12%2Funraid_sticker_black_square_sticker-r90549904cb6d483db9b8bc53d17f3bf1_0ugmc_8byvr_540.jpg&f=1&nofb=1&ipt=267d849f03b77a014a64f9c9666180179a9ff86f342a6da5cfa8ffd7918f76e2&ipo=images',
+          link: '',
         },
       ],
     },
