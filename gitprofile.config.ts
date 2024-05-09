@@ -53,7 +53,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Noé Steiner',
-    description: '',
+    description: 'See the projects I have worked on and the technologies I have used.',
     imageURL: '',
   },
   social: {
@@ -65,18 +65,18 @@ const CONFIG = {
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: '', // example: 'pewdiepie'
+    youtube: 'unshadee', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
-    medium: '',
+    medium: 'unshade',
     dev: '',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    stackoverflow: '17821590/unshade', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://nstnr.com',
     phone: '',
-    email: 'noesteiner@pm.me',
+    email: 'noe.steiner@telecomnancy.eu',
   },
   resume: {
     fileUrl:
