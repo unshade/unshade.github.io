@@ -45,7 +45,7 @@ const CONFIG = {
           description:
             'My personal server is running on UnRaid. I have a few docker containers running on it, such as NextCloud, Bitwarden, and more. I also use it to run VMs for development purposes (and for my personnal cloud gaming).',
           imageUrl:
-            'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.filegarden.net%2Fwp-content%2Fuploads%2F2019%2F12%2Funraid_sticker_black_square_sticker-r90549904cb6d483db9b8bc53d17f3bf1_0ugmc_8byvr_540.jpg&f=1&nofb=1&ipt=267d849f03b77a014a64f9c9666180179a9ff86f342a6da5cfa8ffd7918f76e2&ipo=images',
+            'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcraftassets.unraid.net%2Fuploads%2F_1200x630_crop_center-center_82_none%2Fseo-unraid.png%3Fmtime%3D20180827134547&f=1&nofb=1&ipt=63760a8b03b443c030ad986c04dadc4e7160edd19722f1fa5128c7b1aa4498e4&ipo=images',
           link: '',
         },
       ],
